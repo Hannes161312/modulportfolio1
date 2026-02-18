@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ebene_1" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" x="64.5" y="230.13" width="371" height="39.73" rx="19.17" ry="19.17"/>
+  <rect class="cls-1" x="64.5" y="230.13" width="371" height="39.73" rx="19.17" ry="19.17" transform="translate(0 500) rotate(-90)"/>
+</svg>
